@@ -1,0 +1,570 @@
+﻿ 2020-07-04T18:24:37.6165304-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:26:36.5673197-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:26:42.9032301-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:26:52.3359243-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:27:34.2629019-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:27:38.7755734-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:28:19.4181857-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:32:11.9174676-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #,')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:38:36.4341778-03:00: Unhandled exception - a MessageNotUnderstood('Teatro class does not understand #crearTeatro:prompt:direccion:cap:')
+
+Teatro class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-04T18:39:06.0339294-03:00: Unhandled exception - a MessageNotUnderstood('Teatro class does not understand #crearTeatro:prompt:')
+
+Teatro class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>evaluateAndDisplay:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ShellView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+ShellView(View)>>onCommand:
+ShellView(View)>>wmCommand:wParam:lParam:
+ShellView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView>>translateAccelerator:
+ShellView>>preTranslateKeyboardInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-05T12:22:56.3475299-03:00: Unhandled exception - a MessageNotUnderstood('UndefinedObject does not understand #asNumber')
+
+Object>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in Toolbar(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+Toolbar(View)>>onCommand:
+Toolbar>>command:id:
+ReferenceView(View)>>wmCommand:wParam:lParam:
+ReferenceView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+Toolbar(ControlView)>>defaultWindowProcessing:wParam:lParam:
+MouseEvent(WindowsEvent)>>defaultWindowProcessing
+Toolbar(View)>>onLeftButtonReleased:
+Toolbar(View)>>wmLButtonUp:wParam:lParam:
+Toolbar(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView(View)>>isDialogMessage:
+ShellView>>preTranslateMouseInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
+ 2020-07-06T15:38:32.9456043-03:00: Unhandled exception - a MessageNotUnderstood('SmallInteger does not understand #asNumber')
+
+SmallInteger(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>evaluateIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in Toolbar(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Cursor>>showWhile:
+Toolbar(View)>>onCommand:
+Toolbar>>command:id:
+ReferenceView(View)>>wmCommand:wParam:lParam:
+ReferenceView(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+Toolbar(ControlView)>>defaultWindowProcessing:wParam:lParam:
+MouseEvent(WindowsEvent)>>defaultWindowProcessing
+Toolbar(View)>>onLeftButtonReleased:
+Toolbar(View)>>wmLButtonUp:wParam:lParam:
+Toolbar(View)>>dispatchMessage:wParam:lParam:
+[] in InputState>>wndProc:message:wParam:lParam:cookie:
+BlockClosure>>ifCurtailed:
+GuiInputState(InputState)>>wndProc:message:wParam:lParam:cookie:
+ShellView(View)>>isDialogMessage:
+ShellView>>preTranslateMouseInput:
+ShellView(View)>>preTranslateMessage:
+GuiInputState(InputState)>>preTranslateMessage:
+GuiInputState(InputState)>>pumpMessage:
+GuiInputState(InputState)>>loopWhile:
+GuiInputState(InputState)>>mainLoop
+[] in GuiInputState(InputState)>>forkMain
+ExceptionHandler(ExceptionHandlerAbstract)>>markAndTry
+[] in ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+ExceptionHandler(ExceptionHandlerAbstract)>>try:
+BlockClosure>>on:do:
+[] in BlockClosure>>newProcess:
+----------------------------------------------------------------------------------------------------
+
